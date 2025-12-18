@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=🎯%20🐍%20Snake%20Game&fontSize=40&fontAlignY=35&desc=Test%20Your%20Logic%20%7C%20Have%20Fun%20%7C%20Learn%20C➕➕&descAlignY=55" />
 </p>
-🐍 Snake Game (C++ Console Version)
+## 🐍 Snake Game (C++ Console Version)
 
 A simple and interactive Snake Game built using C++ for the console.
 This project demonstrates game loops, keyboard input handling, basic graphics using characters, and real-time movement logic.
@@ -8,7 +8,7 @@ This project demonstrates game loops, keyboard input handling, basic graphics us
 
 ---
 
-✔ Features
+## ✔ Features
 
 🟢 Smooth snake movement
 
@@ -26,7 +26,7 @@ This project demonstrates game loops, keyboard input handling, basic graphics us
 
 ---
 
-📁 Files
+## 📁 Files
 
 snake.cpp → Main game source code
 
@@ -36,7 +36,7 @@ README.md → Project documentation
 
 ---
 
-▶ How to Compile (Windows / Linux)
+## ▶ How to Compile (Windows / Linux)
 
 Using g++
 
@@ -49,7 +49,7 @@ Run the Game
 
 ---
 
-🎮 How to Play
+## 🎮 How to Play
 
 W → Move Up
 
@@ -60,7 +60,7 @@ A → Move Left
 D → Move Right
 
 
-🎯 Goal
+## 🎯 Goal
 
 Eat the food (F or #) to grow your snake.
 Avoid hitting walls or your own tail!
@@ -68,7 +68,7 @@ Avoid hitting walls or your own tail!
 
 ---
 
-🧠 Concepts Used
+## 🧠 Concepts Used
 
 Loops & conditional statements
 
@@ -86,7 +86,7 @@ Basic console rendering
 
 ---
 
-🧩 Game Structure
+## 🧩 Game Structure
 
 📦 Snake-Game
 ├── snake.cpp     # Main game logic
@@ -95,7 +95,7 @@ Basic console rendering
 
 ---
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🌈 Add colors to the board
 
@@ -111,7 +111,7 @@ Basic console rendering
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Anshul Rajput
 Passionate C++ Developer | Learning DSA & Game Development
